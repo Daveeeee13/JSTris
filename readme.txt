@@ -1,0 +1,5 @@
+Creare una tabella 3x3 per il gioco del Tris, in ogni cella della tabella deve essere possibile, tramite un click, inserire uno dei due simboli: O, X. Sotto alla tabella si devono trovare due pulsanti (button), mediante i quali avviene il cambio del giocatore: quando un giocatore clicca sul pulsante "O", poi,  cliccando su una cella della tabella sarà inserito il simbolo "O",  viceversa, quando il secondo giocatore clicca sul pulsante "X", poi, potrà inserire il corrispondente simbolo sulla tabella.
+
+Facoltativo 1: inserire un pulsante "Verifica" mediante il quale viene stabilito il vincitore, visualizzando il messaggio (in un paragrafo): "Ha vinto il giocatore O" (o  X).
+
+Facoltativo 2: stabilire l'alternanza delle giocate (inserimento del simbolo) tra i due giocatori. In questo caso non servono i due bottoni, basta scegliere in modo casuale (random) quale giocatore inizierà a porre il suo simbolo sullaa tabella.
